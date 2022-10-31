@@ -48,3 +48,5 @@ auth:
 url:
   base:
     path: http://127.0.0.1:8080
+
+inst.cs5100: false
